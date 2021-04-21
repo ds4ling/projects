@@ -1,4 +1,66 @@
-Final project
+Research project
 ================
 
-This is for final projects
+### Overview
+
+Each student will complete a research project in which they put in
+practice the tools learned over the course of the semester. The primary
+focus will be on managing the project in an automatic and reproducible
+way so that it can be shared with other collaborators. The project will
+be hosted on GitHub and will include the following:
+
+-   slides
+-   manuscript
+-   r code
+-   data (raw and tidy)
+
+Students have two options regarding the type of project they do:
+
+1.  Personal project (real)
+    -   For advanced students working on their own data
+    -   Ideal for QP, thesis, other projects
+2.  Hypothetical project (simulated)
+    -   For students w/o data
+    -   Ideal for students in proposal phase (IRB, NSF, ect.)
+
+All projects require the prior approval of the professor. Project due
+dates will be established in class, but can be expected to be due
+several days before the university assigned final exam (though there is
+no exam).
+
+### Paper
+
+The manuscript will be a write up of the methods/results sections of a
+research article. The focus is on clearly and accurately explaining the
+statistical analyses used in the project and appropriately interpreting
+the results. The paper must be a literate document written in RMarkdown
+using `papaja`. We will demo this in class.
+
+### Presentation
+
+Students will present their work in a semi-finished state during the
+final week of the semester (10 min. presentation + 5 min. for
+questions). The slides of this presentation are part of the project and
+must also be hosted on GitHub.
+
+### Peer review
+
+Each student is required to evaluate the project of two other students.
+They will fork the project in order to evaluate the reproducibility of
+the code and the statistical validity of the analysis. Students will
+write up two evaluations for each peer: one for the professor (not to be
+seen by anybody else), and one for the owner of the project in the form
+of an issue/comment on GitHub. The evaluation written for the professor
+should be longer and more in depth. Both evaluations should be written
+in the style of a peer review for an academic journal, thus they should
+include comments, questions, suggestions, and *constructive* criticisms
+(\#BeReviewer1). The point of this exercise is to help the author make
+the final product better.
+
+## More details
+
+Each individual project should be a single repo hosted on github. The
+repo can be private until the final week of class, at which point it
+should be made public so that it can be evaluated by other students. In
+order for the repo to be easily located, students should create an issue
+in this repo with a link.
