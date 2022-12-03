@@ -9,19 +9,19 @@ focus will be on managing the project in an automatic and reproducible
 way so that it can be shared with other collaborators. The project will
 be hosted on GitHub and will include the following:
 
--   slides
--   manuscript
--   r code
--   data (raw and tidy)
+- slides
+- manuscript
+- r code
+- data (raw and tidy)
 
 Students have two options regarding the type of project they do:
 
 1.  Personal project (real)
-    -   For advanced students working on their own data
-    -   Ideal for QP, thesis, other projects
+    - For advanced students working on their own data
+    - Ideal for QP, thesis, other projects
 2.  Hypothetical project (simulated)
-    -   For students w/o data
-    -   Ideal for students in proposal phase (IRB, NSF, ect.)
+    - For students w/o data
+    - Ideal for students in proposal phase (IRB, NSF, ect.)
 
 All projects require the prior approval of the professor. Project due
 dates will be established in class, but can be expected to be due
@@ -54,7 +54,7 @@ of an issue/comment on GitHub. The evaluation written for the professor
 should be longer and more in depth. Both evaluations should be written
 in the style of a peer review for an academic journal, thus they should
 include comments, questions, suggestions, and *constructive* criticisms
-(\#BeReviewer1). The point of this exercise is to help the author make
+(#BeReviewer1). The point of this exercise is to help the author make
 the final product better.
 
 ## More details
