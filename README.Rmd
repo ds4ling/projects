@@ -53,3 +53,12 @@ The point of this exercise is to help the author make the final product better.
 Each individual project should be a single repo hosted on github. 
 The repo can be private until the final week of class, at which point it should be made public so that it can be evaluated by other students. 
 In order for the repo to be easily located, students should create an issue in this repo with a link.
+
+## Examples
+
+It might be helpful to see examples of projects from past students. 
+Check the following links and pay special attention to the structure of the projects, length of papers, etc. 
+
+- https://github.com/kparrish92/ds4ling_final
+- https://github.com/joselyn-rodriguez/DS4L_final
+- https://github.com/ccy07/finalds4ling
